@@ -1,0 +1,22 @@
+{
+  "name": "parsleyjs",
+  "version": "1.2.2",
+  "description": "[![Build Status](https://travis-ci.org/guillaumepotier/Parsley.js.png?branch=master)](https://travis-ci.org/guillaumepotier/Parsley.js)",
+  "main": "parsley.extend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillaumepotier/Parsley.js.git"
+  },
+  "dependencies": {
+    "jquery": "^1.10.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guillaumepotier/Parsley.js/issues"
+  },
+  "homepage": "https://github.com/guillaumepotier/Parsley.js#readme"
+}
